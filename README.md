@@ -7,6 +7,8 @@
 - 📫 How to reach me: https://ezytrick.com/
 - ⚡ Fun fact: I am the person who creates your images
 
+<a href="https://www.youtube.com/c/EASYWAYtricks">YOUTUBE</a>
+
 <!--
 **Irushan22/Irushan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
