@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Front-end Developer at ModernUIx
+- 🔭 I’m currently working as Front-end Developer at SKYLIS
 - 🌱 I’m currently learning WebGL with Three.js 
 - 💬 Ask me about Web Development
 - 📫 How to reach me: https://ezytrick.com/
