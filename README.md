@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Full-Stack Developer at REDBLOCKS
+- 🔭 I’m currently working as Full-Stack Developer at ADL
 - 🌱 I’m currently learning WebGL with Three.js 
 - 💬 Ask me about Web Development
 - 📫 How to reach me: https://irushan22.github.io/portfolio/
